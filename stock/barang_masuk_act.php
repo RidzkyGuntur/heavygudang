@@ -25,6 +25,7 @@ if($query1 && $query2){
 }
 
 
+
 ?>
 
 <html>
